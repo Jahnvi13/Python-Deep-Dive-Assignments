@@ -1,0 +1,12 @@
+Total salary of Accounting department is $224193.15
+Total salary of Business Development department is $214219.13
+Total salary of Engineering department is $250173.23
+Total salary of Human Resources department is $233181.13
+Total salary of Legal department is $232337.76
+Total salary of Marketing department is $249834.57
+Total salary of Product Management department is $257212.32
+Total salary of Research and Development department is $252059.25
+Total salary of Sales department is $230925.99
+Total salary of Services department is $252031.25
+Total salary of Support department is $211321.59
+Total salary of Training department is $203379.17
